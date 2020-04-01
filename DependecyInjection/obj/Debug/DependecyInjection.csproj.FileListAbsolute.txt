@@ -1,0 +1,12 @@
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\bin\Debug\DependecyInjection.exe.config
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\bin\Debug\DependecyInjection.exe
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\bin\Debug\DependecyInjection.pdb
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\obj\Debug\DependecyInjection.csprojAssemblyReference.cache
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\obj\Debug\DependecyInjection.csproj.CoreCompileInputs.cache
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\obj\Debug\DependecyInjection.exe
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\obj\Debug\DependecyInjection.pdb
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\bin\Debug\Castle.Core.dll
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\bin\Debug\Castle.Windsor.dll
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\bin\Debug\Castle.Core.xml
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\bin\Debug\Castle.Windsor.xml
+C:\Users\KY185041\source\repos\DependecyInjection\DependecyInjection\obj\Debug\DependecyInjection.csproj.CopyComplete
